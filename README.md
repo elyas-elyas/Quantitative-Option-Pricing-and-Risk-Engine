@@ -3,6 +3,17 @@
 Implementation of a high-performance derivatives pricing engine combining analytical (Black-Scholes) and numerical (Monte Carlo, Heston) methods with real-time OpenGL visualization.
 
 ---
+## Application Gallery
+
+![Main Dashboard](docs/dashboard_main.jpg)
+*Real-time Model Comparison (Heston vs Black-Scholes) and Market Parameters Control.*
+
+<br>
+
+![Risk Heatmap](docs/dashboard_heatmap.jpg)
+*3D Risk Surface Visualization (Spot vs Volatility Heatmap).*
+
+---
 
 ## Project Objective
 
