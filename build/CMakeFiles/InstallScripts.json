@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/elyas/Desktop/Projet/option_pricing_engine/build/cmake_install.cmake",
+		"/Users/elyas/Desktop/Projet/option_pricing_engine/build/_deps/glfw-build/cmake_install.cmake",
+		"/Users/elyas/Desktop/Projet/option_pricing_engine/build/_deps/glfw-build/src/cmake_install.cmake",
+		"/Users/elyas/Desktop/Projet/option_pricing_engine/build/_deps/glfw-build/examples/cmake_install.cmake",
+		"/Users/elyas/Desktop/Projet/option_pricing_engine/build/_deps/glfw-build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
